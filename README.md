@@ -181,3 +181,9 @@ python3 app.py
 6. **Verify on the Browser**<br>
 Navigate to project homepage [http://127.0.0.1:5000/](http://127.0.0.1:5000/) or [http://localhost:5000](http://localhost:5000) 
 
+## Authors
+1. Sudhanshu Kulshrestha
+2. abdullahi Kawu
+
+## Acknowledgments
+I give thanks to ALX, Udacity for opportunity to be a part of the program and course instructor, Amy Hua, for making the course easy to apprenend.
